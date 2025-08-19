@@ -1,0 +1,49 @@
+bases_config.json
+
+{
+  "Курск Ленина ММ": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "Анапа ММ": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "Курчатов CХ и Пекарни": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "Белгород СХ": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "Казань 1, 2, 3 СХ Железногорск Брянск": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "СХ Орел": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "Старый Оскол СХ": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "ИП Лозовская Пекарни": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  },
+  "ИП Касаткин": {
+    "url": "https://host.iiko.it:port/resto/api",
+    "preset_id": "token",
+    "revenue_preset_id": "token"
+  }
+}
