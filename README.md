@@ -199,7 +199,3 @@ If you encounter issues:
 > ✅ **IIKO OLAP Reporter** — simple, reliable, and convenient tool for automating routine reporting.
 
 --- 
-
-Let me know if you'd like this as a downloadable `README.md` file or need a version with comments in code.
-
-Если нужно — могу также сгенерировать файл `requirements.txt` или `main.py` с выносом конфига.
