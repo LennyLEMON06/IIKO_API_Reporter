@@ -36,8 +36,16 @@ poptc/
 # Environment files
 .env
 *.env
+# Python Virtual Environment
 .venv/
-*.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~*
+*$py.class
+*.so
+*.py[co]
 secrets.py
 
 # System files
