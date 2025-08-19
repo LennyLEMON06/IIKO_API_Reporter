@@ -36,6 +36,8 @@ poptc/
 # Environment files
 .env
 *.env
+.venv/
+*.venv/
 secrets.py
 
 # System files
