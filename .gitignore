@@ -38,7 +38,9 @@ poptc/
 *.env
 # Python Virtual Environment
 .venv/
-__pycache__/
+env/
+venv/
+ENV/
 *.pyc
 *.pyo
 *.pyd
